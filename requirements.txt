@@ -1,0 +1,14 @@
+pypdf
+chromadb
+sentence-transformers
+groq
+python-dotenv
+ddgs
+requests
+beautifulsoup4
+streamlit
+pymupdf
+pillow
+yfinance
+matplotlib
+tavily-python

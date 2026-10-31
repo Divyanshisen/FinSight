@@ -1,0 +1,982 @@
+{
+ "26af7f16257e74e4d4e425c3e5d9e05377d872d7": [
+  {
+   "query": "What was the real GDP growth rate for fiscal year 2022-23?",
+   "passage": "In FY 2022-23, the economy expanded at a real GDP growth rate of 5.2 per cent, driven by strong consumer spending and export demand."
+  },
+  {
+   "query": "What is the projected real GDP growth percentage for FY 2023-24 according to the latest management discussion?",
+   "passage": "Management projects that FY 2023-24 will see real GDP growth of approximately 4.8 per cent, reflecting anticipated moderation in inflation and continued investment."
+  },
+  {
+   "query": "How does the real GDP growth rate change from FY 2022-23 to FY 2023-24 and what factors explain the difference?",
+   "passage": "Real GDP growth slowed from 5.2 per cent in FY 2022-23 to an estimated 4.8 per cent in FY 2023-24, primarily due to tighter monetary policy and a slowdown in global trade."
+  }
+ ],
+ "6641b0a8e5dd59925c471188faa9d45a53ee74ba": [
+  {
+   "query": "What is the definition and basic structure of a mutual fund?",
+   "passage": "A mutual fund is an investment vehicle that pools capital from many investors to buy a diversified portfolio of securities, which is managed by a professional investment manager. Each investor holds shares that represent a proportional interest in the fund’s underlying assets."
+  },
+  {
+   "query": "How are mutual funds classified and regulated under U.S. law?",
+   "passage": "In the United States, mutual funds are classified as registered investment companies and are governed by the Investment Company Act of 1940, requiring SEC registration, regular disclosure, diversification standards, and liquidity provisions."
+  },
+  {
+   "query": "What fee components do mutual funds typically charge their investors?",
+   "passage": "Mutual funds usually charge an expense ratio that includes the investment manager’s fee, administrative expenses, and any 12b‑1 distribution fees, all of which are deducted from the fund’s assets on an ongoing basis."
+  }
+ ],
+ "2f10697ff7252377d083007593c46ff9a9dccb36": [
+  {
+   "query": "What is the record date for the company's 2024 dividend and bonus issue?",
+   "passage": "The Board has set the record date for the 2024 dividend and bonus issue as 15 June 2024. Shareholders on record as of the close of business on that date will be entitled to receive the dividend and bonus shares."
+  },
+  {
+   "query": "When is the ex‑date for the announced 10% share split?",
+   "passage": "The 10% share split will become effective on 1 July 2024, with an ex‑date of 28 June 2024. Trades executed on or after the ex‑date will not include the split entitlement."
+  },
+  {
+   "query": "How does the company define the interaction between dividend, bonus issue, and share split in its capital management policy?",
+   "passage": "In its Capital Management Policy, the Company states that dividends, bonus issues, and share splits are distinct mechanisms: dividends provide cash returns, bonus issues allocate additional shares from retained earnings, and splits adjust the share price without altering shareholder equity."
+  }
+ ],
+ "4248976c268fef40b7bba4368d9622ee34215af8": [
+  {
+   "query": "What is the current long‑term capital gains tax rate applicable to listed equity shares in India?",
+   "passage": "According to the Finance Ministry’s 2023 tax circular, long‑term capital gains arising from the sale of listed equity shares are taxed at a flat rate of 10%."
+  },
+  {
+   "query": "From which fiscal year did the 10% long‑term capital gains tax rate on listed equity shares become effective in India?",
+   "passage": "The amendment introduced in the Union Budget 2018 stipulated that the 10% LTCG tax on listed equities would take effect from the financial year 2018‑19."
+  },
+  {
+   "query": "How does the long‑term capital gains tax rate on listed equity shares compare to the rate on unlisted equity shares in India?",
+   "passage": "While listed equity shares attract a 10% long‑term capital gains tax, unlisted equity holdings are subject to the standard slab rates, which can be as high as 30% for high‑income taxpayers."
+  }
+ ],
+ "1d13fef5fb7b684112b01ac826467e69632b1c9a": [
+  {
+   "query": "What is the projected annual return for the XYZ Growth Fund for fiscal year 2025?",
+   "passage": "In our FY2025 outlook, the XYZ Growth Fund is expected to deliver a 20% total return, driven by anticipated strong performance in the technology sector and a favorable macroeconomic environment."
+  },
+  {
+   "query": "Which mutual funds have achieved a 20% annual return over the past three fiscal years?",
+   "passage": "Historical performance data shows that the ABC Value Fund, the DEF Emerging Markets Fund, and the GHI Small‑Cap Fund each posted total returns of 20% or higher in fiscal years 2022, 2023, and 2024."
+  },
+  {
+   "query": "What assumptions does the prospectus use to forecast a 20% return for the LMN Balanced Fund?",
+   "passage": "The LMN Balanced Fund prospectus assumes a 5% increase in equity market indices, a 3% rise in fixed‑income yields, and a 2% inflation rate, which together underpin the forecasted 20% total return for the upcoming year."
+  }
+ ],
+ "6081df9d7a7da62f9d5109202c994349ddfb825d": [
+  {
+   "query": "What is the RBI's repo rate announced in the latest monetary policy statement?",
+   "passage": "In its monetary policy statement released on 5 June 2024, the Reserve Bank of India kept the repo rate unchanged at 6.50%."
+  },
+  {
+   "query": "When was the RBI's repo rate last adjusted and by how much?",
+   "passage": "The RBI last altered the repo rate on 5 June 2024, reducing it by 0.25 percentage points from 6.75% to 6.50%."
+  },
+  {
+   "query": "What role does the repo rate play in the RBI's monetary policy framework?",
+   "passage": "The repo rate is the benchmark lending rate at which the RBI provides short‑term liquidity to banks, serving as the primary tool to influence inflation and credit growth."
+  }
+ ],
+ "b9905689eafb17ccb8239d197fb74eeaad0e7969": [
+  {
+   "query": "What is the current cash reserve ratio percentage mandated for scheduled commercial banks?",
+   "passage": "In the latest circular dated 15 March 2024, the Reserve Bank of India announced that the cash reserve ratio (CRR) for all scheduled commercial banks will be set at 4.5% of net demand and time liabilities."
+  },
+  {
+   "query": "When was the cash reserve ratio last revised and what level was it changed to?",
+   "passage": "The CRR was last adjusted on 15 March 2024, when the RBI increased the ratio from 4.0% to 4.5% to tighten liquidity amid rising inflationary pressures."
+  },
+  {
+   "query": "Why did the regulator decide to keep the current CRR at its present level?",
+   "passage": "The regulator explained that maintaining the CRR at 4.5% helps contain excess credit growth, supports price stability, and ensures sufficient liquidity buffers in the banking system during a period of elevated inflation."
+  }
+ ],
+ "2d7b693b444e3ada28a3beabebacedf26e358fff": [
+  {
+   "query": "What is the current statutory liquidity ratio (SLR) percentage for Indian scheduled commercial banks?",
+   "passage": "As of the latest monetary policy announcement on 5 July 2024, the Reserve Bank of India has maintained the statutory liquidity ratio at 18.00 % for all scheduled commercial banks."
+  },
+  {
+   "query": "When was the most recent adjustment to the SLR implemented?",
+   "passage": "The RBI revised the SLR on 5 July 2024, increasing it from 17.75 % to 18.00 %, with the change taking effect from 1 August 2024."
+  },
+  {
+   "query": "What is the regulatory purpose of the current SLR level?",
+   "passage": "The current SLR of 18.00 % is designed to ensure adequate liquidity in the banking system, support demand for government securities, and curb excessive credit growth, as outlined in the RBI’s Financial Stability Report."
+  }
+ ],
+ "3fc81f9b099460c4bde2e9fc7df0792f1ba41773": [
+  {
+   "query": "What were India's annual real GDP growth rates for FY2019 through FY2023?",
+   "passage": "The 2024 Annual Economic Review states that India's real GDP grew by 6.1% in FY2019, 5.8% in FY2020, 7.2% in FY2021, 6.5% in FY2022, and 6.0% in FY2023."
+  },
+  {
+   "query": "How does the five‑year average GDP growth rate for FY2019‑FY2023 compare with the previous five‑year period?",
+   "passage": "According to the same report, the five‑year average growth rate from FY2019‑FY2023 was 6.3%, a decline from the 7.0% average recorded in the prior five‑year window, signalling a modest slowdown."
+  },
+  {
+   "query": "What were the main factors influencing the change in India's GDP growth rate over the last five years?",
+   "passage": "The regulator’s circular notes that a surge in domestic consumption and a post‑pandemic rebound in services boosted growth in FY2021, while tighter monetary policy and global supply‑chain disruptions tempered expansion in FY2022 and FY2023."
+  }
+ ],
+ "c57cc662cdb63d9dc33b2237482d3ed1e650dfb6": [
+  {
+   "query": "What was the percentage revenue growth reported by Infosys for fiscal year 2026?",
+   "passage": "In the FY 2026 Annual Report, Infosys disclosed a revenue growth of 12.5% year‑over‑year, driven by strong demand for digital services."
+  },
+  {
+   "query": "What were the primary factors contributing to Infosys's revenue growth in FY 2026?",
+   "passage": "The FY 2026 Management Discussion highlighted that growth was propelled by increased cloud migration projects, higher client renewals, and expansion in the North American market."
+  },
+  {
+   "query": "What were Infosys's total revenues for FY 2025 and FY 2026?",
+   "passage": "According to the financial statements, Infosys generated $15.2 billion in FY 2025 and $17.1 billion in FY 2026, reflecting the year‑over‑year increase."
+  }
+ ],
+ "b2323d49670732073b068eafd7f98ee16add3ef9": [
+  {
+   "query": "What is the adjusted operating margin reported by Infosys for fiscal year 2026?",
+   "passage": "In the FY2026 Annual Report, Infosys disclosed an adjusted operating margin of 28.5% for the fiscal year ended March 31, 2026. This metric reflects the company's profitability after normalizing for specific items."
+  },
+  {
+   "query": "How does Infosys define 'adjusted operating margin' in its FY2026 financial disclosures?",
+   "passage": "Infosys defines adjusted operating margin as operating profit after excluding stock‑based compensation, one‑time restructuring costs, and foreign‑exchange gains, expressed as a percentage of net revenue for FY2026. The definition is outlined in the Notes to the Financial Statements of the FY2026 report."
+  },
+  {
+   "query": "What was the change in Infosys' adjusted operating margin from fiscal 2025 to fiscal 2026?",
+   "passage": "The FY2026 adjusted operating margin increased to 28.5% from 27.2% in FY2025, reflecting higher utilization rates and improved cost efficiencies. This upward movement is highlighted in the Management Discussion and Analysis section of the FY2026 report."
+  }
+ ],
+ "7de8e81aadc179fa8dd4f39d605edfe9721ba630": [
+  {
+   "query": "What is a stock split and how does it affect the total shares outstanding and the price per share?",
+   "passage": "A stock split is a corporate action that increases the number of a company's outstanding shares by issuing additional shares to current shareholders, proportionally reducing the price of each share while keeping the overall market capitalization unchanged."
+  },
+  {
+   "query": "Why do companies choose to execute a stock split and what benefits are expected for investors?",
+   "passage": "Companies often pursue a stock split to improve liquidity, make the share price more accessible to retail investors, and signal confidence in future growth, which can enhance market perception and potentially support a higher valuation."
+  },
+  {
+   "query": "What are the filing and procedural requirements for a stock split as described in the company's regulatory disclosures?",
+   "passage": "The annual report outlines that a stock split must be approved by the board of directors, filed with the securities regulator via a Form 8‑K, and accompanied by a shareholder notice detailing the split ratio, effective date, and any adjustments to the company's capital structure."
+  }
+ ],
+ "29d35ba8e05f2384bdea343895d629cf79152b4d": [
+  {
+   "query": "What is the definition of a stock split and how does it differ from a bonus issue?",
+   "passage": "A stock split divides each existing share into multiple new shares, reducing the nominal price per share while keeping total equity unchanged. In contrast, a bonus issue (or scrip issue) allocates additional shares to existing shareholders out of retained earnings, increasing the total number of shares without any cash outlay."
+  },
+  {
+   "query": "How does a stock split impact earnings per share and share capital compared to a bonus issue?",
+   "passage": "Following a 2‑for‑1 stock split, the company's share capital is re‑allocated into twice as many shares, causing earnings per share to be halved, although total earnings remain the same. A 10% bonus issue raises the share count by 10%, diluting earnings per share proportionally, but also increases the share capital recorded on the balance sheet."
+  },
+  {
+   "query": "What regulatory approvals are required for a stock split versus a bonus issue under corporate law?",
+   "passage": "A stock split generally requires board approval and a filing with the securities regulator, but no shareholder vote, as it does not affect capital. Conversely, a bonus issue must be authorized by a shareholder resolution at a general meeting and must be reported to the regulator as an increase in issued share capital."
+  }
+ ],
+ "216306139fe0e31a37c03a60b02028e8d4e4e91a": [
+  {
+   "query": "What are the primary categories of risk that investors face when buying securities?",
+   "passage": "Our 2023 Annual Report identifies four principal risk categories for securities investors: market risk, credit risk, liquidity risk, and regulatory risk. Each category reflects a distinct source of potential loss, ranging from price fluctuations to changes in legal frameworks."
+  },
+  {
+   "query": "Why does market volatility represent a key risk for securities investors according to the regulator's circular?",
+   "passage": "The Securities Commission’s latest circular explains that heightened market volatility can erode portfolio value rapidly, as sudden price swings increase the probability of stop‑loss triggers and margin calls, thereby amplifying loss potential for investors."
+  },
+  {
+   "query": "What mitigation strategies are recommended for managing operational risk in securities trading?",
+   "passage": "In the Investor Guide, we advise implementing robust trade execution controls, regular system audits, and comprehensive staff training to reduce operational risk, which includes errors in order processing and technology failures that could affect investment outcomes."
+  }
+ ],
+ "b6a8852c9e57de95ee6e97f58757f18317bdf760": [
+  {
+   "query": "When did Emirates NBD Bank cease operations of its Indian branches and what was the announced timeline?",
+   "passage": "Emirates NBD disclosed in its FY2023 annual report that the bank voluntarily wound down its two Indian branches in August 2023, completing the closure by the end of September 2023 in accordance with the RBI’s notice period."
+  },
+  {
+   "query": "What regulatory action did the Reserve Bank of India take against Emirates NBD’s Indian subsidiaries?",
+   "passage": "The Reserve Bank of India issued a formal directive in July 2023 requiring Emirates NBD’s Indian subsidiaries to suspend all banking activities pending a compliance review, citing concerns over capital adequacy and AML procedures."
+  },
+  {
+   "query": "What financial impact did the shutdown of the Indian branches have on Emirates NBD’s earnings for the year?",
+   "passage": "According to the bank’s investor briefing, the termination of the Indian operations resulted in a one‑time charge of approximately AED 150 million, reducing net profit by 2.5% for the fiscal year ended December 2023."
+  }
+ ],
+ "b849da427f8b14b238415b293181c9a35a9bf784": [
+  {
+   "query": "What categories of mutual funds are listed in the company's prospectus?",
+   "passage": "Our prospectus classifies mutual funds into three primary categories: equity funds, fixed‑income funds, and balanced funds, each designed to meet distinct investor objectives."
+  },
+  {
+   "query": "How does the regulator define the main types of mutual funds in its circular?",
+   "passage": "According to the Securities Commission circular, mutual funds are broadly grouped into equity, debt, money market, and hybrid funds, reflecting the underlying asset composition and risk profile."
+  },
+  {
+   "query": "Which mutual fund types are eligible for tax‑advantaged retirement accounts according to the investor guide?",
+   "passage": "The 2024 Investor Guide notes that only equity, bond, and target‑date mutual funds qualify for inclusion in tax‑advantaged retirement plans, while commodity‑linked funds do not."
+  }
+ ],
+ "c995ea721a868c5f79ea0c9a3dcf7548394aee51": [
+  {
+   "query": "What is the definition of KYC in the context of financial services?",
+   "passage": "KYC, or Know Your Customer, is a set of procedures employed by financial institutions to verify the identity of their clients. It ensures that banks have accurate information about the individuals or entities they serve, helping to prevent fraud and illicit activities."
+  },
+  {
+   "query": "What regulatory obligations do banks have regarding KYC compliance?",
+   "passage": "Under the Anti‑Money Laundering Act, banks are required to implement robust KYC policies, maintain up‑to‑date client records, and conduct periodic reviews. Failure to meet these standards can result in fines, sanctions, or revocation of operating licenses."
+  },
+  {
+   "query": "What are the typical steps involved in a KYC verification process for new account opening?",
+   "passage": "The KYC verification process generally includes collecting personal identification documents, confirming the customer's address, performing background checks against sanction lists, and obtaining a signed declaration of source of funds before the account is activated."
+  }
+ ],
+ "8ae24fcbc85183485d4ab41831fd6f2c466c6766": [
+  {
+   "query": "Which regulations or statutes require financial institutions to implement KYC procedures?",
+   "passage": "Under the Anti‑Money Laundering Act of 2020 and the Global Financial Integrity Directive, all banks, broker‑dealers, and payment service providers must establish Know‑Your‑Customer (KYC) protocols to verify the identity of clients before establishing a business relationship."
+  },
+  {
+   "query": "In what ways does KYC reduce the risk of money laundering and terrorist financing?",
+   "passage": "KYC controls enable firms to screen customers against sanctions lists, monitor transaction patterns, and flag suspicious activity, thereby preventing illicit funds from entering the financial system and deterring terrorist financing schemes."
+  },
+  {
+   "query": "What operational advantages does KYC provide for customer onboarding and relationship management?",
+   "passage": "By collecting standardized identification data at the outset, KYC streamlines account opening, reduces manual verification time, and improves data quality, which in turn enhances cross‑sell opportunities and lowers the cost of ongoing compliance monitoring."
+  }
+ ],
+ "7adf766100244f91cdaa2d190159bdfa47052f81": [
+  {
+   "query": "What was the reported current account balance for India in August 2026 according to the RBI press release?",
+   "passage": "The Reserve Bank of India’s press release for August 2026 states that the current account recorded a surplus of INR 1.2 trillion, up from a deficit of INR 0.4 trillion in the previous month."
+  },
+  {
+   "query": "How did the capital account position change in August 2026 as described in the RBI’s balance of payments release?",
+   "passage": "In August 2026, the capital account showed net inflows of USD 5.5 billion, driven primarily by foreign portfolio investments, marking a 30 % increase over July 2026."
+  },
+  {
+   "query": "What reasons did the RBI give for the improvement in India’s balance of payments in August 2026?",
+   "passage": "The RBI attributed the improvement in the balance of payments to higher export earnings, a decline in oil import bills, and robust foreign direct investment inflows during August 2026."
+  }
+ ],
+ "e7c3005bc3948fe20edf2da8cab59b846651568b": [
+  {
+   "query": "What are the main stages of the KYC process as depicted in the infographic?",
+   "passage": "The infographic outlines four core stages: Customer Identification, Document Verification, Risk Assessment, and Ongoing Monitoring. Each stage is illustrated with icons and brief descriptions, highlighting the sequential flow from onboarding to continuous compliance."
+  },
+  {
+   "query": "What compliance metrics are highlighted in the KYC infographic?",
+   "passage": "According to the infographic, 98% of new accounts complete verification within 24 hours, while the average risk‑rating distribution shows 70% low‑risk, 20% medium‑risk, and 10% high‑risk customers. These figures underscore the efficiency of the institution’s KYC controls."
+  },
+  {
+   "query": "What visual design elements does the KYC infographic use to convey the process timeline?",
+   "passage": "The infographic employs a horizontal timeline with color‑coded segments, using blue for identification, green for verification, orange for risk assessment, and red for monitoring. Accompanying icons such as a passport, magnifying glass, shield, and clock reinforce each phase."
+  }
+ ],
+ "26dd97c15bd1387ead470fb9ac9c83d2e6265b7c": [
+  {
+   "query": "What was Infosys's year‑over‑year revenue growth percentage in the most recent fiscal year?",
+   "passage": "In the FY2023 Annual Report, Infosys disclosed a 12.5% increase in total revenue compared with FY2022, rising from $13.5 billion to $15.2 billion."
+  },
+  {
+   "query": "How did the revenue mix across digital services, consulting, and legacy IT services change for Infosys over the past three years?",
+   "passage": "The report highlights that digital services now account for 45% of total revenue, up from 38% three years ago, while legacy IT services declined from 30% to 22%, and consulting remained relatively stable around 33%."
+  },
+  {
+   "query": "What reasons does Infosys give for the observed revenue trends in its latest annual report?",
+   "passage": "Management attributes the revenue acceleration to strong demand for cloud migration projects, higher client spending on AI‑enabled solutions, and successful expansion into North American markets, while noting a modest slowdown in traditional outsourcing contracts."
+  }
+ ],
+ "96f6d75d0569df04e92227dd0ec2ccc81249dcc3": [
+  {
+   "query": "What were Infosys's gross profit margin percentages for each fiscal year over the past five years as shown in the annual report?",
+   "passage": "The 2023 Annual Report presents a table of gross profit margins, indicating 45.2% for FY2023, 44.8% for FY2022, 44.1% for FY2021, 43.7% for FY2020, and 43.3% for FY2019, reflecting a steady upward trend."
+  },
+  {
+   "query": "How does the Infosys annual report explain the primary factors influencing the decline in operating margin during FY2022?",
+   "passage": "Management notes in the FY2022 Management Discussion and Analysis that higher personnel costs and increased investment in cloud services compressed operating margin to 28.5%, down from 30.2% the prior year."
+  },
+  {
+   "query": "Which figure or chart in the Infosys annual report illustrates the net profit margin trend from FY2019 through FY2023?",
+   "passage": "Figure 4 on page 58 of the report displays a line chart of net profit margin, showing a rise from 22.0% in FY2019 to 24.3% in FY2023, highlighting consistent improvement."
+  }
+ ],
+ "892ac5f1227b1f9ce1fe2686c69521720a226f63": [
+  {
+   "query": "What key benefits are highlighted in the eNPS advertisement for investors?",
+   "passage": "The advertisement emphasizes that adopting the eNPS platform delivers a measurable uplift in employee engagement, translating into a 15% reduction in turnover and a 10% increase in overall productivity, which directly enhances shareholder value."
+  },
+  {
+   "query": "What call‑to‑action does the eNPS advertisement include for potential clients?",
+   "passage": "At the close of the ad, readers are urged to “Schedule a complimentary 30‑minute demo today” and are provided with a dedicated portal link to register for an introductory webinar on the eNPS solution."
+  },
+  {
+   "query": "What specific performance benchmark does the eNPS advertisement claim companies can achieve?",
+   "passage": "The ad states that firms implementing the eNPS tool can raise their employee Net Promoter Score from the industry median of 30 to above 50 within six months, positioning them in the top quartile of employee satisfaction metrics."
+  }
+ ],
+ "3bc4d7f1d44782cd6166ca4ae1faaae69f3c1bb0": [
+  {
+   "query": "What is the current Standing Deposit Facility rate set by the central bank?",
+   "passage": "In the most recent monetary policy decision released on 15 March 2026, the European Central Bank announced that the Standing Deposit Facility rate stands at 3.75 % per annum."
+  },
+  {
+   "query": "How does the Standing Deposit Facility rate compare with the main refinancing operations rate?",
+   "passage": "The Standing Deposit Facility rate of 3.75 % is 0.25 percentage points lower than the main refinancing operations rate, which is currently 4.00 %, providing a modest floor for overnight funding."
+  },
+  {
+   "query": "What reason did the regulator give for keeping the Standing Deposit Facility rate unchanged?",
+   "passage": "The regulator explained that maintaining the Standing Deposit Facility rate at 3.75 % helps preserve liquidity stability in the banking sector and is consistent with inflation expectations remaining within the target range."
+  }
+ ],
+ "561a0b28fa6cedd91bc6c921353495098a7d7b52": [
+  {
+   "query": "What is the current Bank Rate set by the Reserve Bank of India?",
+   "passage": "In the Monetary Policy Statement released on 5 June 2024, the RBI confirmed that the Bank Rate stands at 6.50 %."
+  },
+  {
+   "query": "When was the most recent adjustment to the RBI's Bank Rate made and how was it changed?",
+   "passage": "The RBI raised the Bank Rate by 0.25 percentage points on 5 June 2024, moving it from 6.25 % to the current 6.50 %."
+  },
+  {
+   "query": "What purpose does the Bank Rate serve in the RBI's monetary policy framework?",
+   "passage": "The Bank Rate is the benchmark rate at which the RBI provides funds to commercial banks, shaping overall liquidity and influencing credit conditions throughout the economy."
+  }
+ ],
+ "f0f316f9a32560d65fa224e087a15d4235d0de1d": [
+  {
+   "query": "What is the latest reported CPI inflation rate for India in the March 2024 RBI Monetary Policy Report?",
+   "passage": "The Reserve Bank of India's March 2024 Monetary Policy Report states that the Consumer Price Index (CPI) inflation for India stood at 5.2% year‑over‑year in March, marking a slight increase from the previous month."
+  },
+  {
+   "query": "How does the latest CPI inflation rate in India compare with the target range set by the RBI?",
+   "passage": "According to the RBI's latest inflation update, the CPI inflation of 5.2% remains just above the central bank's 4% ± 2% target band, indicating modest pressure on price stability."
+  },
+  {
+   "query": "What methodology does the Indian Ministry of Statistics and Programme Implementation use to calculate the CPI inflation rate?",
+   "passage": "The Ministry of Statistics and Programme Implementation (MoSPI) calculates CPI inflation using a weighted basket of 135 goods and services across eight major expenditure categories, with weights derived from the latest Household Consumption Survey."
+  }
+ ],
+ "2a93a464f922f6d58d8b8949ec716be056e2a662": [
+  {
+   "query": "What was the closing price of Reliance Industries Limited (RIL) on the most recent trading day?",
+   "passage": "In the daily market summary dated 25 October 2026, Reliance Industries Limited closed at INR 2,350 per share, reflecting a modest gain of 0.8% over the previous session."
+  },
+  {
+   "query": "What is the highest price Reliance shares reached during today's trading session?",
+   "passage": "According to today's intraday market snapshot, Reliance Industries peaked at INR 2,380 per share before settling lower by market close."
+  },
+  {
+   "query": "By what percentage did Reliance's share price change today compared with yesterday's close?",
+   "passage": "The stock experienced a 0.8% increase today, moving from INR 2,330 at yesterday's close to INR 2,350 at today's close."
+  }
+ ],
+ "f50a8f98e893c24db9ae54f10eb41df978df602e": [
+  {
+   "query": "What is the official capital city of France?",
+   "passage": "According to the company's geographic risk assessment, all European headquarters are located in Paris, which is the official capital city of France. The report confirms Paris as the primary administrative and economic hub for French operations."
+  },
+  {
+   "query": "Which French city hosts the central bank and the majority of listed company headquarters?",
+   "passage": "Our 2025 investor guide notes that the Banque de France and the majority of listed company headquarters are situated in Paris, reinforcing its role as the financial capital of the nation."
+  },
+  {
+   "query": "In which municipality does the French government maintain its primary seat of power?",
+   "passage": "The regulator's circular on cross‑border compliance states that the French government’s primary seat of power is in the municipality of Paris, the country's capital, where key policy decisions are made."
+  }
+ ],
+ "e173f9dfa70029e699a95970d5a6c93e4d7ca13c": [
+  {
+   "query": "What is the statutory lock‑in period for Equity Linked Savings Scheme (ELSS) mutual funds as defined by SEBI regulations?",
+   "passage": "In accordance with SEBI Regulation 12(1), all Equity Linked Savings Scheme (ELSS) mutual funds are subject to a mandatory lock‑in period of three years from the date of subscription. Investors are prohibited from redeeming any units before this three‑year horizon expires."
+  },
+  {
+   "query": "How many years must an investor retain ELSS units before they become eligible for redemption?",
+   "passage": "The fund prospectus specifies that ELSS units are locked for a period of three years, after which investors may freely redeem or switch their holdings without restriction."
+  },
+  {
+   "query": "Why does an ELSS mutual fund impose a lock‑in period, and what is its duration?",
+   "passage": "The three‑year lock‑in period is intended to promote long‑term equity investment and to satisfy the tax‑benefit requirements under Section 80C of the Income Tax Act, ensuring that investors maintain their positions for at least three years."
+  }
+ ],
+ "6b96953a7942598b82a535d88e3dcca9d296b2bb": [
+  {
+   "query": "What is the current long‑term capital gains tax rate on listed equity shares in India?",
+   "passage": "As per the Finance Act 2018, long‑term capital gains arising from the sale of listed equity shares are taxed at a flat rate of 10% on gains exceeding INR 1 lakh."
+  },
+  {
+   "query": "Is there any exemption threshold for long‑term capital gains on listed equity shares in India?",
+   "passage": "The tax provision allows an exemption for the first INR 1,00,000 of long‑term capital gains on listed equity shares; only the amount above this threshold is subject to the 10% LTCG tax."
+  },
+  {
+   "query": "When did India introduce the 10% long‑term capital gains tax on listed equity shares and why?",
+   "passage": "The 10% LTCG tax on listed equity shares was introduced in the FY 2018‑19 to broaden the tax base and offset revenue losses from the removal of the earlier exemption, while retaining a modest exemption limit to protect small investors."
+  }
+ ],
+ "cc117492382dda25ae292bb912038575dc389cb9": [
+  {
+   "query": "What is the long‑term capital gains tax rate applied to listed equity shares in India after the Rs 125,000 exemption threshold?",
+   "passage": "According to the Finance Act 2018, long‑term capital gains from the sale of listed equity shares are taxed at a flat rate of 10% on the amount that exceeds the annual exemption of Rs 125,000. Gains up to the threshold are tax‑free, and the 10% rate is levied without indexation benefits."
+  },
+  {
+   "query": "How does the Rs 125,000 LTCG exemption threshold affect the taxable amount for an investor who realized Rs 300,000 in long‑term gains from listed equities?",
+   "passage": "An investor with Rs 300,000 of long‑term capital gains on listed equity shares first deducts the statutory exemption of Rs 125,000, leaving Rs 175,000 subject to tax. The remaining Rs 175,000 is then taxed at the 10% LTCG rate, resulting in a tax liability of Rs 17,500."
+  },
+  {
+   "query": "When was the Rs 125,000 exemption limit for long‑term capital gains on listed equity shares introduced in India, and what was the previous exemption amount?",
+   "passage": "The Rs 125,000 exemption for long‑term capital gains on listed equity shares was introduced in the Union Budget of 2018 and became effective on 1 April 2018. Before this amendment, there was no specific exemption ceiling, and all long‑term gains were taxable at the prevailing rates."
+  }
+ ],
+ "346f8cd801a6058e6b59b5af3a3068efd534a32c": [
+  {
+   "query": "What is the current long‑term capital gains tax rate applied to listed equity shares in India?",
+   "passage": "According to the Finance Ministry’s latest tax schedule, long‑term capital gains arising from the sale of listed equity shares are taxed at a flat rate of 10% in India, subject to applicable surcharge and cess."
+  },
+  {
+   "query": "When did the 10% long‑term capital gains tax on listed equity shares become effective in India, and what is the rate?",
+   "passage": "The Finance Act 2018 introduced a 10% long‑term capital gains tax on listed equity shares, which came into force on 1 April 2018. The rate remains unchanged at 10% for gains exceeding the INR 1 million exemption threshold."
+  },
+  {
+   "query": "What conditions must be met for the 10% long‑term capital gains tax to apply to listed equity shares in India?",
+   "passage": "The 10% LTCG tax applies only to listed equity shares held for more than 12 months and sold at a profit exceeding INR 1 million; gains below this threshold are exempt, and the tax is levied after adjusting for indexation benefits where applicable."
+  }
+ ],
+ "12897ea3d1fe505e8928211486a49757ec0638b3": [
+  {
+   "query": "What is the current exemption limit for long‑term capital gains on listed equity shares under Indian tax law?",
+   "passage": "According to the Finance Act 2023, the exemption limit for long‑term capital gains on listed equity shares is INR 1 lakh per individual for each financial year. Gains above this amount are subject to tax at the applicable rate."
+  },
+  {
+   "query": "When was the exemption threshold for long‑term capital gains on listed equity shares in India last amended?",
+   "passage": "The exemption threshold was revised in the Finance Act passed in March 2023, raising the limit from INR 50,000 to INR 1 lakh. This amendment came into effect from the start of FY 2023‑24."
+  },
+  {
+   "query": "Which provision of the Income Tax Act defines the exemption threshold for long‑term capital gains on listed equity shares?",
+   "passage": "Section 112A of the Income Tax Act, 1961 specifies the exemption threshold for long‑term capital gains on listed equity shares, currently set at INR 1 lakh per assessee. The provision also outlines the tax rate applicable to gains exceeding the exemption."
+  }
+ ],
+ "d29e27a687a58178d7f88ec86c1a423a5ab17b0a": [
+  {
+   "query": "What is the current statutory liquidity ratio (SLR) set by the RBI?",
+   "passage": "In its latest circular dated 15 July 2026, the Reserve Bank of India announced that the statutory liquidity ratio (SLR) will be maintained at 18.00% of net demand and time liabilities of scheduled commercial banks."
+  },
+  {
+   "query": "How does the RBI define the statutory liquidity ratio (SLR) and its purpose?",
+   "passage": "The statutory liquidity ratio (SLR) is a regulatory requirement mandating that scheduled commercial banks hold a specified proportion of their net demand and time liabilities in the form of liquid assets, such as government securities. This instrument is used by the RBI to control credit expansion and ensure liquidity stability."
+  },
+  {
+   "query": "Why did the RBI adjust the statutory liquidity ratio (SLR) in the latest monetary policy review?",
+   "passage": "The RBI increased the SLR to 18% in its March 2026 monetary policy review to curb inflationary pressures and absorb excess liquidity in the banking system. The adjustment aligns with the central bank’s objective of maintaining price stability while supporting sustainable credit growth."
+  }
+ ],
+ "23e8d819f966f256d85410a6e70286752506e67e": [
+  {
+   "query": "What is the current Cash Reserve Ratio set by the Reserve Bank of India as of the latest monetary policy announcement?",
+   "passage": "In its Monetary Policy Statement dated 3 April 2024, the RBI announced that the Cash Reserve Ratio for scheduled commercial banks will remain at 4.0 %."
+  },
+  {
+   "query": "According to the RBI's latest circular, what is the statutory CRR percentage that banks must maintain on net demand and time liabilities?",
+   "passage": "The RBI Circular No. 2024‑07, issued on 15 March 2024, stipulates that banks are required to hold a Cash Reserve Ratio of 4.0 % on their net demand and time liabilities."
+  },
+  {
+   "query": "How does the current CRR level affect the liquidity position of Indian banks as described in a major bank's 2024 annual report?",
+   "passage": "Our 2024 Annual Report notes that with the RBI's CRR fixed at 4.0 %, banks have retained sufficient liquidity, resulting in a net stable funding ratio of 115 %."
+  }
+ ],
+ "bd7dd1e054b852fb27cde2271d5aa27a0d1685e5": [
+  {
+   "query": "What is India's CPI inflation rate for the most recent month as published by the Ministry of Statistics and Programme Implementation?",
+   "passage": "In the March 2024 release, the Ministry of Statistics and Programme Implementation reported that India's Consumer Price Index (CPI) inflation stood at 5.2% year‑over‑year, marking the latest reading in the series."
+  },
+  {
+   "query": "How does the latest CPI inflation rate compare with the rate recorded in the preceding month?",
+   "passage": "The April 2024 bulletin shows CPI inflation at 5.2%, a slight increase from February's 5.0%, indicating a modest upward momentum in price pressures."
+  },
+  {
+   "query": "What were the primary drivers behind India's latest CPI inflation rate according to the Reserve Bank of India's monetary policy statement?",
+   "passage": "The RBI's April 2024 monetary policy statement attributes the 5.2% CPI inflation to higher food prices, especially vegetables, and rising fuel costs, while core inflation remained stable."
+  }
+ ],
+ "b64b6cf870f38be55d5f8bcd40a7fd032eaea432": [
+  {
+   "query": "Which calendar month does the CPI inflation rate correspond to?",
+   "passage": "The CPI inflation rate of 2.3% reflects price changes for the month of March 2024."
+  },
+  {
+   "query": "What reporting period (month and year) is used for the CPI inflation figure in the document?",
+   "passage": "In this quarterly update, the CPI inflation figure pertains to the reporting period of April 2024."
+  },
+  {
+   "query": "During which month was the CPI data collected that produced the reported inflation rate?",
+   "passage": "Data for the CPI inflation rate were gathered throughout May 2024, and the resulting rate is presented herein."
+  }
+ ],
+ "ce8aa31333a34fc76260b7166ed376f26d86a9e7": [
+  {
+   "query": "Where in my monthly bank statement can I locate the current account balance?",
+   "passage": "The monthly statement includes a summary section on the first page where the \"Current Balance\" is listed under the account overview. This figure reflects all posted transactions up to the statement date and is highlighted in bold for quick reference."
+  },
+  {
+   "query": "What is the difference between 'available balance' and 'current balance' in my personal banking portal?",
+   "passage": "In the online banking portal, the \"Current Balance\" represents the total of all cleared transactions, while the \"Available Balance\" subtracts any pending debits, holds, or authorized payments. This distinction helps customers understand funds that are immediately accessible versus those pending settlement."
+  },
+  {
+   "query": "How can I retrieve my personal account balance using the bank's mobile app API documentation?",
+   "passage": "According to the mobile app API guide, the endpoint GET /accounts/{accountId}/balance returns a JSON object containing \"currentBalance\" and \"availableBalance\" fields. Developers can integrate this call to display real‑time balance information within third‑party financial tools."
+  }
+ ],
+ "75b79e4f9655dd305b37d4501f626f8f35c57c23": [
+  {
+   "query": "What are the definitions of Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR) according to the central bank regulations?",
+   "passage": "The Cash Reserve Ratio (CRR) is the proportion of a bank’s net demand and time liabilities that must be maintained as cash with the Reserve Bank of India. The Statutory Liquidity Ratio (SLR) requires banks to hold a specified percentage of their net demand and time liabilities in the form of liquid assets such as government securities, treasury bills, and gold."
+  },
+  {
+   "query": "In what way do the asset composition requirements differ between CRR and SLR for commercial banks?",
+   "passage": "Under the CRR mandate, banks are required to keep the stipulated portion of their deposits as cash reserves, which cannot be used for lending or investment. Conversely, the SLR obliges banks to maintain a portion of their deposits in high‑quality liquid securities, allowing them to earn a modest return while still meeting liquidity standards."
+  },
+  {
+   "query": "What are the current percentages for CRR and SLR, and how have these rates evolved over the last five years?",
+   "passage": "As of the latest monetary policy announcement, the CRR stands at 4.0% of net demand and time liabilities, while the SLR is set at 18.0%. Over the past five years, the CRR has been adjusted downward from 5.5% to its present level, whereas the SLR has fluctuated within a narrow band, moving from 19.5% to 18.0% in response to liquidity management objectives."
+  }
+ ],
+ "db658530faebcea02b6a66df0e70c977025200c1": [
+  {
+   "query": "What was Infosys's revenue growth percentage for fiscal year 2026?",
+   "passage": "In the FY2026 financial year, Infosys reported a revenue growth of 12.5% year‑over‑year, increasing total revenue to $15.3 billion."
+  },
+  {
+   "query": "How did Infosys's FY2026 revenue growth compare with the prior fiscal year?",
+   "passage": "Revenue growth in FY2026 accelerated to 12.5% versus 9.8% in FY2025, reflecting stronger demand for digital services."
+  },
+  {
+   "query": "What were the main drivers behind Infosys's FY2026 revenue growth?",
+   "passage": "The FY2026 revenue growth was driven by higher adoption of cloud and AI solutions, expansion in North America, and successful execution of the company's strategic acquisitions."
+  }
+ ],
+ "855ef356b6f7e5de5c1fe3f10793750647497130": [
+  {
+   "query": "What is the adjusted operating margin percentage reported by Infosys for fiscal year 2026?",
+   "passage": "In the FY2026 Annual Report, Infosys disclosed an adjusted operating margin of 28.5% for the year ended March 31, 2026. This metric reflects the company's profitability after excluding non‑recurring items."
+  },
+  {
+   "query": "How does Infosys define 'adjusted operating margin' in its FY2026 financial disclosures?",
+   "passage": "Infosys defines adjusted operating margin as operating profit before depreciation, amortization, and one‑time items, divided by net revenue. The definition is outlined in the FY2026 Management Discussion and Analysis section of the annual filing."
+  },
+  {
+   "query": "What factors contributed to the change in Infosys's adjusted operating margin in FY2026 compared with FY2025?",
+   "passage": "The FY2026 adjusted operating margin rose to 28.5% due to stronger digital services revenue and improved cost efficiencies, while higher employee compensation partially offset the gains. Compared with FY2025, the net effect was a 2.3‑percentage‑point increase in the margin."
+  }
+ ],
+ "a9baa35227263e37f4a34a020ffde5f4884f4cd2": [
+  {
+   "query": "What are the key filing requirements outlined in the ITR-2 instructions for Assessment Year 2018-19?",
+   "passage": "The ITR‑2 instructions for AY 2018‑19 specify that individuals with income from capital gains, foreign assets, or multiple property transactions must file using the revised Schedule C. Taxpayers are required to disclose all house‑property income, report foreign bank balances, and attach supporting documents for any loss set‑off."
+  },
+  {
+   "query": "Which categories of taxpayers are required to use ITR-2 according to the AY 2018-19 guidelines?",
+   "passage": "According to the AY 2018‑19 ITR‑2 circular, the form is mandatory for individuals and Hindu Undivided Families who have income from capital gains, foreign assets, or more than one house property, but who do not have business or professional income."
+  },
+  {
+   "query": "What changes were introduced in the ITR-2 instruction manual for AY 2018-19 compared to the previous year?",
+   "passage": "The 2018‑19 ITR‑2 instruction manual introduced a new section on reporting cryptocurrency transactions, updated the schedule for reporting foreign assets to align with FATCA, and simplified the computation of capital gains by providing a consolidated table for short‑term and long‑term gains."
+  }
+ ],
+ "d67e8fe0f420b5bcfcdd70ae00894c493cc650e0": [
+  {
+   "query": "What is the simple interest accrued on ₹10,000 at a 10% annual rate over a 2‑year period?",
+   "passage": "In the FY2025 financial overview, the company illustrated that a principal of ₹10,000 subjected to a 10% simple interest rate generates ₹2,000 of interest over a two‑year horizon, resulting in a total repayment of ₹12,000."
+  },
+  {
+   "query": "How much compound interest is earned on ₹10,000 at 10% per annum after 2 years with annual compounding?",
+   "passage": "According to the regulator’s circular on interest calculations, applying a 10% annual compound rate to a ₹10,000 principal yields ₹2,210 of interest after two years, bringing the maturity amount to ₹12,210."
+  },
+  {
+   "query": "Provide a comparative table showing total interest and final amounts for simple versus compound interest on ₹10,000 at 10% per year over two years.",
+   "passage": "The investor guide includes a side‑by‑side table for a ₹10,000 investment at 10% per annum over two years: Simple Interest – Interest ₹2,000, Total ₹12,000; Compound Interest – Interest ₹2,210, Total ₹12,210."
+  }
+ ],
+ "62771dd0a9897ab62f7d98c378b263e42f26c9ea": [
+  {
+   "query": "Which calendar month recorded the highest total expense in the company's 2023 financial statements?",
+   "passage": "In the 2023 Annual Report, the expense summary shows that December incurred the highest total expense of the year, driven primarily by year‑end bonus payouts and increased inventory write‑downs."
+  },
+  {
+   "query": "What was the dollar amount of expenses for the month identified as having the highest spending?",
+   "passage": "The expense breakdown for December 2023 indicates total costs of $12.4 million, representing a 15% increase over the prior month and the peak expense figure for the fiscal year."
+  },
+  {
+   "query": "What were the primary reasons cited for the peak expense month in the latest investor guide?",
+   "passage": "According to the Investor Guide, the surge in December expenses was attributed to seasonal staffing bonuses, higher logistics costs due to holiday demand, and a one‑time provision for warranty claims."
+  }
+ ],
+ "81c0fee55a81f596927c4a10ff52add4b16f88de": [
+  {
+   "query": "Which month recorded the highest expense in the quarterly expense summary?",
+   "passage": "In the quarterly expense summary, the month of March recorded the highest expense at ₹3,000, exceeding the other months' expenditures of ₹2,500, ₹2,200, and ₹2,000."
+  },
+  {
+   "query": "What was the expense amount for the month with the peak spending in the fiscal year?",
+   "passage": "The peak‑spending month, March, incurred an expense of ₹3,000, which was the largest among the listed monthly figures."
+  },
+  {
+   "query": "Provide the list of monthly expenses and highlight the month with the greatest expense.",
+   "passage": "The monthly expense breakdown is as follows: January – ₹2,000; February – ₹2,500; March – ₹3,000; April – ₹2,200. March stands out as the month with the greatest expense."
+  }
+ ],
+ "d1402874148c81555715fc3412da0d60b16576f9": [
+  {
+   "query": "What is the definition of average expense in the company's financial reporting?",
+   "passage": "The average expense is calculated by summing all expense items for the period and dividing by the number of entries, providing a per‑transaction cost metric used in our monthly performance review."
+  },
+  {
+   "query": "Calculate the average expense for the four transactions of ₹2,000, ₹2,500, ₹2,200 and ₹3,000 as reported in the expense summary.",
+   "passage": "Based on the expense summary, the total of the four listed transactions is ₹9,700, and dividing by four yields an average expense of approximately ₹2,425 per transaction."
+  },
+  {
+   "query": "Why does management highlight the average expense of recent purchases in the quarterly investor briefing?",
+   "passage": "Management emphasizes the average expense of recent purchases to illustrate cost stability and to benchmark against prior quarters, helping investors assess operational efficiency and pricing trends."
+  }
+ ],
+ "e31306728df8045e2c84a17fa86ac1141df31952": [
+  {
+   "query": "What were the expense amounts for each month from January to April?",
+   "passage": "The company's operating expenses for the first quarter were recorded as follows: January – ₹2,000; February – ₹2,500; March – ₹2,200; and April – ₹3,000. These figures are presented in the quarterly expense summary of the 2023 annual report."
+  },
+  {
+   "query": "How did the monthly expenses trend over the period January to April?",
+   "passage": "Analysis of the expense data shows a modest upward trajectory, with a dip in March followed by a pronounced increase in April, indicating a rising cost pattern as the fiscal year progressed."
+  },
+  {
+   "query": "What are the recommended specifications for a bar chart visualizing monthly expenses for January through April?",
+   "passage": "The investor guide suggests using a vertical bar chart with the X‑axis labeled by month (Jan, Feb, Mar, Apr) and the Y‑axis representing expense values in rupees, scaling from ₹0 to ₹3,500 in increments of ₹500, and applying a consistent color scheme for clarity."
+  }
+ ],
+ "94f8925384b71bafe07f8b6a0647d4c7521bca74": [
+  {
+   "query": "What specific financial goal does VisionPaper 2025 identify as its primary target?",
+   "passage": "VisionPaper 2025 states that the primary target is to increase net operating profit by 15% over the baseline year, positioning the company as a market leader in sustainable earnings growth."
+  },
+  {
+   "query": "Which strategic initiative is highlighted as the main focus of VisionPaper 2025?",
+   "passage": "The document emphasizes that the main focus of VisionPaper 2025 is the rollout of the Digital Transformation Initiative, aimed at modernizing core banking platforms and enhancing customer experience."
+  },
+  {
+   "query": "What is the overarching outcome VisionPaper 2025 aims to achieve by the end of the planning horizon?",
+   "passage": "According to VisionPaper 2025, the overarching outcome is to achieve a balanced portfolio with 40% of assets under management allocated to ESG‑compliant investments, reflecting the firm’s commitment to responsible growth."
+  }
+ ],
+ "548682122a1747dc574087a796ecf3e8b2565515": [
+  {
+   "query": "What were the yearly total digital payment transaction values from 2010 to 2022?",
+   "passage": "The 2023 Annual Report shows that digital payment transaction values grew from $45 bn in 2010 to $210 bn in 2022, representing a compound annual growth rate of 14%."
+  },
+  {
+   "query": "How has the share of digital payments in total payment volume changed each year since 2015?",
+   "passage": "According to the regulator’s 2023 Payments Landscape Circular, digital payments accounted for 22% of total payment volume in 2015, rising to 48% in 2022, reflecting a steady shift toward electronic channels."
+  },
+  {
+   "query": "What key drivers are cited for the upward trend in digital payments over the past five years?",
+   "passage": "The Investor Guide 2023 attributes the digital payments surge to increased smartphone penetration, the rollout of contact‑less technology, and supportive regulatory frameworks such as the 2020 Open Banking mandate."
+  }
+ ],
+ "bca99fca98d6b37bd8f487b90265efbfa1cbde29": [
+  {
+   "query": "What are the primary sustainability targets that Infosys sets for its ESG Vision 2030 in the most recent annual report?",
+   "passage": "Infosys' ESG Vision 2030 commits to achieving net‑zero carbon emissions by 2030, sourcing 100 % of its electricity from renewable sources, and reducing water consumption per employee by 30 % over the baseline year 2020. The report also outlines a goal to divert 90 % of waste from landfills through recycling and circular‑economy initiatives."
+  },
+  {
+   "query": "How does the annual report describe the governance structure that will oversee Infosys' ESG Vision 2030 implementation?",
+   "passage": "The report details that a dedicated ESG Steering Committee, chaired by the Chairman and reporting directly to the Board, will supervise the Vision 2030 agenda. This committee is supported by functional ESG task forces, quarterly performance dashboards, and an external assurance provider that validates progress against the defined KPIs."
+  },
+  {
+   "query": "What progress milestones or performance metrics has Infosys reported achieving toward its ESG Vision 2030 in the current fiscal year?",
+   "passage": "In FY 2025, Infosys disclosed that it has already reduced its Scope 1 and Scope 2 emissions by 45 % relative to the 2020 baseline and has reached 78 % renewable electricity consumption across its global sites. The company also reported a 25 % increase in gender diversity among senior leadership, moving closer to its 2030 target of 30 % women in executive roles."
+  }
+ ],
+ "1c20ba12839ae8915e32c9cef6a24de18b77256e": [
+  {
+   "query": "What exact wording does the Economic Survey 2025 preface use to describe India's macroeconomic performance?",
+   "passage": "In the preface of the Economic Survey 2025, the authors state: \"India's macroeconomic performance in 2025 has been remarkably resilient, delivering sustained growth amidst a challenging global environment.\""
+  },
+  {
+   "query": "Which macroeconomic indicators are highlighted in the Economic Survey preface as evidence of India's 2025 performance?",
+   "passage": "The preface highlights several key indicators: a real GDP growth rate of around 7%, inflation moderated to 4.5%, a fiscal deficit narrowed to 5.2% of GDP, and a current‑account surplus expanding to 2.1% of GDP."
+  },
+  {
+   "query": "What reasons or context does the Economic Survey preface give for India's macroeconomic performance in 2025?",
+   "passage": "The preface attributes the strong 2025 performance to robust domestic consumption, a rebound in export demand, continued reforms in the financial sector, and effective monetary policy that kept inflation in check."
+  }
+ ],
+ "e791beeb352c87539d00fd8c07e8be10d9669703": [
+  {
+   "query": "What are the applicable tax rates for short‑term and long‑term capital gains on equity mutual funds in India?",
+   "passage": "According to the latest tax circular, short‑term capital gains (STCG) on equity-oriented mutual funds held for up to 12 months are taxed at a flat rate of 15%, whereas long‑term capital gains (LTCG) on holdings exceeding 12 months attract a 10% tax on gains above the INR 1 lakh exemption threshold."
+  },
+  {
+   "query": "How is the holding period calculated to determine short‑term versus long‑term capital gains on debt mutual funds in India?",
+   "passage": "The regulator’s investor guide states that the holding period for debt mutual funds begins on the date of unit allotment and ends on the redemption date; a period of 36 months or less classifies the gain as short‑term, while any period beyond 36 months is treated as long‑term for tax purposes."
+  },
+  {
+   "query": "What steps should an investor follow to compute the taxable capital gain when redeeming mutual fund units?",
+   "passage": "To compute taxable capital gains, an investor must first determine the redemption proceeds, then subtract the original purchase cost (adjusted for any applicable indexation benefit for long‑term gains). The resulting figure is the net gain, which is then taxed at the appropriate short‑term or long‑term rate as defined by the tax law."
+  }
+ ],
+ "6311883c889ac613b5da6ec30ef6692acaf990d4": [
+  {
+   "query": "What was Infosys's total revenue for each fiscal year from FY2018 to FY2022 as presented in the latest annual report?",
+   "passage": "The 2022 Annual Report presents Infosys's consolidated revenue for FY2018 through FY2022 as follows: FY2018 – $10.5 bn, FY2019 – $11.2 bn, FY2020 – $12.0 bn, FY2021 – $13.1 bn, FY2022 – $14.3 bn."
+  },
+  {
+   "query": "On which page of the Infosys 2022 Annual Report can the revenue trend chart be found?",
+   "passage": "The revenue trend chart is located on page 45 of the Infosys 2022 Annual Report, illustrating year‑over‑year revenue growth from FY2015 to FY2022."
+  },
+  {
+   "query": "What are the primary drivers behind the revenue growth shown in Infosys's revenue trend chart in the annual report?",
+   "passage": "The annual report attributes the upward revenue trajectory to increased digital services demand, expansion of the cloud and AI practice, and higher client spend in North America, which together contributed to a 9% CAGR over the last five years."
+  }
+ ],
+ "bc43a25da29e1470b515f30010ca26d2e0ae685a": [
+  {
+   "query": "What total revenue did XyzFinCorp Pvt Ltd report for fiscal year 2031?",
+   "passage": "In the FY 2031 Annual Report, XyzFinCorp Pvt Ltd disclosed total revenue of INR 12.5 billion, representing the company's primary source of income for the year."
+  },
+  {
+   "query": "By what percentage did XyzFinCorp's revenue change in 2031 compared to 2030?",
+   "passage": "The 2031 financial statements indicate that revenue increased by 8 % year‑over‑year, rising from INR 11.5 billion in 2030 to INR 12.5 billion in 2031."
+  },
+  {
+   "query": "What were the revenue contributions by business segment for XyzFinCorp in 2031?",
+   "passage": "Segment reporting for FY 2031 shows that Retail Banking contributed INR 5.0 billion, Corporate Banking INR 4.2 billion, and Wealth Management INR 3.3 billion to the total revenue of INR 12.5 billion."
+  }
+ ],
+ "2e1b3138638d0f5e6f4b4c9c81471b4a42a4e213": [
+  {
+   "query": "What was Infosys's year‑over‑year revenue growth percentage for fiscal year 2023?",
+   "passage": "In FY2023, Infosys reported total revenue of $15.2 billion, representing a 12.4% increase compared with FY2022."
+  },
+  {
+   "query": "What key drivers contributed to Infosys's revenue growth in the most recent fiscal year?",
+   "passage": "The company attributed its revenue expansion to higher digital services demand, successful large‑scale cloud migration projects, and strong client renewals in North America and Europe."
+  },
+  {
+   "query": "What is the compound annual growth rate (CAGR) of Infosys's revenue over the past five fiscal years?",
+   "passage": "Over the five‑year period ending FY2023, Infosys's revenue grew at a compound annual growth rate of approximately 10.8%."
+  }
+ ],
+ "bbb1b694dcdfba67b3f5ef24529c70342c7dbbb0": [
+  {
+   "query": "What was Infosys's adjusted operating margin for the fiscal year ended March 2024?",
+   "passage": "In the FY2024 annual report, Infosys reported an adjusted operating margin of 28.5%, reflecting the company's focus on high‑margin digital services. This metric excludes one‑time items and stock‑based compensation."
+  },
+  {
+   "query": "How does Infosys's adjusted operating margin compare to the previous fiscal year?",
+   "passage": "Compared with FY2023, where the adjusted operating margin stood at 27.0%, the FY2024 margin improved to 28.5%, driven by cost efficiencies and a higher revenue mix. The increase underscores the effectiveness of the company's strategic initiatives."
+  },
+  {
+   "query": "How does Infosys define 'adjusted operating margin' in its financial disclosures?",
+   "passage": "Infosys defines adjusted operating margin as operating profit before depreciation, amortization, and stock‑based compensation, divided by net revenue, after excluding one‑time items. This definition is outlined in the company's investor guide and annual report."
+  }
+ ],
+ "7bd97d00cec19e8d338baf3ef0de5dc4f82b7c82": [
+  {
+   "query": "What was Infosys's return on equity for the most recent fiscal year?",
+   "passage": "In the FY2023 Annual Report, Infosys reported a return on equity of 18.5%, reflecting a 2.0 percentage‑point increase over the prior year. This metric highlights the company's profitability relative to shareholders' equity."
+  },
+  {
+   "query": "How does Infosys compute its return on equity under IFRS?",
+   "passage": "Infosys calculates return on equity by dividing net profit after tax by the average shareholders' equity for the reporting period, consistent with IFRS guidelines. The calculation uses consolidated figures from the audited financial statements."
+  },
+  {
+   "query": "What factors contributed to the change in Infosys's return on equity in the latest reporting period?",
+   "passage": "The improvement in Infosys's return on equity was driven by higher net profit margins and disciplined capital allocation, while the equity base remained relatively stable. Strong demand for digital services and cost‑optimization initiatives also supported earnings growth."
+  }
+ ],
+ "244703f648a7ce3c824db527d8c8321cd9c804ba": [
+  {
+   "query": "What are the percentage shares of Infosys revenue by geographical segment for the most recent fiscal year?",
+   "passage": "In the FY2023 Annual Report, Infosys disclosed that its revenue was distributed as follows: North America accounted for 45% of total revenue, Europe contributed 25%, Asia-Pacific represented 20%, and the rest of the world made up the remaining 10%."
+  },
+  {
+   "query": "Which geographic region generated the largest portion of Infosys' revenue in the latest reporting period?",
+   "passage": "According to the Investor Guide for FY2023, North America remained the dominant market for Infosys, delivering the highest revenue share of approximately 45%, outpacing all other regions."
+  },
+  {
+   "query": "How has Infosys' revenue distribution across its geographic segments evolved over the past five years?",
+   "passage": "The regulator’s circular on global revenue trends notes that Infosys' North American share grew from 38% in FY2019 to 45% in FY2023, while the Europe segment declined from 28% to 25% over the same period, reflecting a gradual shift in the company's geographic mix."
+  }
+ ],
+ "d7dffe80c25cb84fbc4357c28e496200229ae3f9": [
+  {
+   "query": "What was Infosys' year‑over‑year revenue growth percentage for FY2023?",
+   "passage": "In the FY2023 Annual Report, Infosys disclosed that total revenue increased to $15.2 billion, representing a 12.5% growth over FY2022."
+  },
+  {
+   "query": "How did Infosys' revenue growth compare with the overall Indian IT services sector in the most recent fiscal year?",
+   "passage": "According to the Investor Guide for FY2023, Infosys' revenue grew 12.5% YoY, outpacing the Indian IT services sector average growth of 9.3% for the same period."
+  },
+  {
+   "query": "What were the primary drivers behind Infosys' revenue growth in FY2023 as described in the management discussion?",
+   "passage": "The Management Discussion section of the FY2023 filing attributes the revenue expansion to higher digital services adoption, strong demand for cloud migration projects, and an increase in large‑scale enterprise contracts."
+  }
+ ],
+ "7fa50ec5abd492eb6bdf93f78d80d5e446c302ca": [
+  {
+   "query": "What was Infosys' adjusted operating margin for the most recent fiscal year?",
+   "passage": "In the FY2023 Annual Report, Infosys disclosed an adjusted operating margin of 28.5% for the year ended March 31, 2023. This figure reflects the company's profitability after excluding non‑recurring items and stock‑based compensation."
+  },
+  {
+   "query": "How does Infosys define and calculate its adjusted operating margin?",
+   "passage": "Infosys defines adjusted operating margin as operating profit before depreciation, amortization, and stock‑based compensation, divided by net revenue. The calculation excludes one‑time restructuring costs and gains from asset sales to provide a normalized view of operating efficiency."
+  },
+  {
+   "query": "What were the primary drivers behind the change in Infosys' adjusted operating margin year‑over‑year?",
+   "passage": "The rise in Infosys' adjusted operating margin was primarily driven by higher digital services revenue, improved utilization rates, and disciplined cost management. Additionally, lower travel and employee attrition expenses contributed to the margin expansion compared with the prior year."
+  }
+ ],
+ "e9f50e80c0c2ff5f0ef9d015c32dce35d0517417": [
+  {
+   "query": "Infosys return on equity for fiscal year 2023",
+   "passage": "In FY2023, Infosys reported a return on equity of 22.5%, reflecting strong profitability relative to its shareholders' equity."
+  },
+  {
+   "query": "How does Infosys calculate its return on equity?",
+   "passage": "Infosys computes ROE by dividing net profit after tax by average shareholders' equity for the reporting period, in accordance with IFRS guidelines."
+  },
+  {
+   "query": "Trend of Infosys' return on equity over the past five years",
+   "passage": "Over the last five fiscal years, Infosys' ROE has risen from 18% in FY2019 to 22.5% in FY2023, indicating a consistent improvement in capital efficiency."
+  }
+ ],
+ "11ca360ba5c879b9e7a26d30d97fb7d044f37a95": [
+  {
+   "query": "What were Infosys's total revenues for fiscal years 2024, 2025, and 2026?",
+   "passage": "The 2026 Annual Report states that Infosys generated total revenues of $13.2 billion in FY2024, $14.5 billion in FY2025, and $16.0 billion in FY2026, illustrating a consistent upward trajectory over the three‑year period."
+  },
+  {
+   "query": "What were the year‑over‑year revenue growth percentages for Infosys in FY2024, FY2025 and FY2026?",
+   "passage": "According to the Management Discussion and Analysis section, Infosys posted a 12% YoY revenue increase in FY2024, a 9% increase in FY2025, and an 11% increase in FY2026, reflecting strong momentum despite market headwinds."
+  },
+  {
+   "query": "What are the quarterly revenue figures for Infosys from FY2024 through FY2026 that can be used to plot a line chart?",
+   "passage": "Table 3 of the Investor Presentation provides quarterly revenue data: FY2024 Q1 $3.2 bn, Q2 $3.3 bn, Q3 $3.4 bn, Q4 $3.3 bn; FY2025 Q1 $3.5 bn, Q2 $3.6 bn, Q3 $3.7 bn, Q4 $3.7 bn; FY2026 Q1 $4.0 bn, Q2 $4.1 bn, Q3 $4.0 bn, Q4 $4.0 bn, enabling a continuous line‑chart visualization of the revenue trend."
+  }
+ ],
+ "1d580bcfdb0caf72d5b297eda7bf9f2209ac25d9": [
+  {
+   "query": "What are the standard opening and closing times for the NSE equity trading session?",
+   "passage": "The NSE equity market operates a single continuous trading session each business day, opening at 09:15 India Standard Time (IST) and closing at 15:30 IST, with a brief 15‑minute pre‑opening period for order entry."
+  },
+  {
+   "query": "When does the pre‑opening and post‑closing session occur for NSE equities?",
+   "passage": "In addition to the main session, the NSE conducts a pre‑opening session from 09:00 to 09:15 IST for order matching and a post‑closing session from 15:30 to 16:00 IST for trade settlement and price discovery."
+  },
+  {
+   "query": "Why does the NSE schedule its equity market hours between 09:15 and 15:30 IST?",
+   "passage": "The NSE aligns its trading hours with the Indian business day to maximize domestic liquidity, accommodate institutional participants, and provide overlap with key international markets while avoiding the midday power‑outage window."
+  }
+ ],
+ "48175f5ac5f1141e1c18314d540c3b837b2f6c30": [
+  {
+   "query": "What are the SEBI-defined market‑capitalisation rank ranges for large‑cap, mid‑cap and small‑cap equity mutual fund schemes?",
+   "passage": "According to SEBI’s classification guidelines, large‑cap schemes must invest at least 80 % of their equity exposure in the top 100 companies by market‑capitalisation, mid‑cap schemes in the next 101‑250 companies, and small‑cap schemes in the remaining companies ranked 251 and below."
+  },
+  {
+   "query": "How does SEBI require mutual funds to disclose the company‑rank composition for large‑cap, mid‑cap and small‑cap schemes in their prospectus?",
+   "passage": "The regulator mandates that the fund’s prospectus include a table showing the percentage of assets allocated to each rank bucket – top 100, 101‑250, and 251‑500 – thereby making the large‑cap, mid‑cap and small‑cap classification transparent to investors."
+  },
+  {
+   "query": "Why did SEBI introduce the rank‑based classification for equity mutual funds, and what objective does it serve?",
+   "passage": "SEBI introduced the rank‑based classification to promote clearer risk profiling and to prevent mis‑labeling of funds; by tying caps to specific market‑capitalisation ranks, investors can better compare the underlying exposure and volatility across large‑cap, mid‑cap and small‑cap schemes."
+  }
+ ],
+ "872a8583b5c2773832eb2597ac35eb7d1399926f": [
+  {
+   "query": "What is the current Bank Rate set by the central bank?",
+   "passage": "In the latest monetary policy announcement dated 28 September 2026, the Monetary Authority confirmed that the Bank Rate stands at 4.75 percent. This rate reflects the cost of borrowing for commercial banks from the central bank and is applied uniformly across all eligible institutions."
+  },
+  {
+   "query": "When was the Bank Rate last adjusted and what was the magnitude of the change?",
+   "passage": "The most recent adjustment to the Bank Rate occurred on 28 September 2026, when the Monetary Authority increased the rate by 0.25 percentage points. Prior to this change, the Bank Rate had been held at 4.50 percent for six months."
+  },
+  {
+   "query": "How does the regulator define the Bank Rate in its policy framework?",
+   "passage": "According to the Central Bank's Monetary Policy Framework (Circular 2023‑07), the Bank Rate is defined as the benchmark interest rate at which the central bank provides overnight funding to commercial banks, serving as the primary tool for influencing short‑term market rates and overall monetary conditions."
+  }
+ ],
+ "489a22dc613e00a7cec5148b5feb3ae850ef1458": [
+  {
+   "query": "How is the post‑split market price calculated when a share’s face value is halved from Rs 10 to Rs 5?",
+   "passage": "In the Investor Guide, we explain that the post‑split price is derived by dividing the pre‑split market price by the split factor. For a 2‑for‑1 split (face value reduced from Rs 10 to Rs 5), the Rs 15 pre‑split price becomes Rs 7.50 after the split."
+  },
+  {
+   "query": "What impact does a face‑value reduction from Rs 10 to Rs 5 have on the quoted share price in the company's 2023 annual report?",
+   "passage": "The 2023 Annual Report notes that the board approved a 2‑for‑1 face‑value split, reducing the nominal value from Rs 10 to Rs 5 per share. Consequently, the market price adjusted proportionally from Rs 15 to approximately Rs 7.5 per share on the effective date."
+  },
+  {
+   "query": "Why does a stock split halve the market price per share while keeping the total market capitalization unchanged?",
+   "passage": "Regulatory Circular No. 12 clarifies that a stock split increases the number of shares outstanding and proportionally reduces the price per share, leaving the company’s market capitalization unchanged. In a 2‑for‑1 split, a Rs 15 share becomes two shares at roughly Rs 7.5 each, preserving total value."
+  }
+ ],
+ "ed07c9902841552074d44bbacd15a42236c83f8f": [
+  {
+   "query": "What does SEBI regulation state regarding registration of a mutual fund before launching a new scheme?",
+   "passage": "According to the SEBI (Mutual Funds) Regulations, 1996, a mutual fund must obtain registration from SEBI prior to the commencement of any new scheme. The registration process includes filing the scheme information memorandum and receiving a certificate of registration before any public offering."
+  },
+  {
+   "query": "Are there any exceptions that allow a mutual fund to launch a scheme without prior SEBI registration?",
+   "passage": "The regulator permits a limited exemption for intra‑fund transfers of existing scheme assets, but any new scheme offered to investors must be registered with SEBI before launch. No other exemptions are provided under the current framework."
+  },
+  {
+   "query": "What penalties apply if a mutual fund launches a scheme without SEBI registration?",
+   "passage": "If a mutual fund initiates a scheme without the requisite SEBI registration, it may face monetary penalties up to INR 5 crore, suspension of the scheme, and possible revocation of its asset‑management license, as stipulated in the SEBI (Mutual Funds) Regulations."
+  }
+ ],
+ "bb5764b1c18632dd87cbc08da124c6dffdb223b6": [
+  {
+   "query": "What is the scheduled effective date for the amalgamation of Emirates NBD Bank's Indian branches with RBL Bank?",
+   "passage": "The amalgamation is slated to become effective on 1 April 2025, subject to receipt of all required regulatory approvals."
+  },
+  {
+   "query": "When will the merger between Emirates NBD's Indian operations and RBL Bank be completed according to the latest board resolution?",
+   "passage": "In the board resolution dated 15 January 2025, the parties agreed that the merger will be completed on 30 June 2025."
+  },
+  {
+   "query": "On which date does the combined entity expect to commence integrated banking services after the amalgamation?",
+   "passage": "Integrated banking services under the merged entity are expected to commence on 1 July 2025, marking the operational start of the amalgamation."
+  }
+ ],
+ "4511606052d7b4dcc3bc31d93c729e1c738d61e1": [
+  {
+   "query": "What is the maximum amount of deduction an individual can claim under Section 123 of the Income‑tax Act, 2025?",
+   "passage": "The Finance Ministry’s 2025 Taxation Circular states that the ceiling for deductions under Section 123 (formerly Section 80C) is INR 1.5 lakh per assessment year for each individual taxpayer."
+  },
+  {
+   "query": "How does the deduction ceiling under Section 123 (earlier Section 80C) for FY 2025‑26 differ from the previous fiscal year?",
+   "passage": "In the latest amendment to the Income‑tax Act, the allowable limit under Section 123 was increased from INR 1.4 lakh in FY 2024‑25 to INR 1.5 lakh in FY 2025‑26, representing a 7 percent rise to keep pace with inflation."
+  },
+  {
+   "query": "Which investment instruments qualify for the maximum deduction under Section 123 of the Income‑tax Act, 2025?",
+   "passage": "Section 123 permits a combined deduction of up to INR 1.5 lakh for contributions to eligible schemes such as Employee Provident Fund, Public Provident Fund, National Savings Certificates, Equity‑Linked Savings Scheme (ELSS) mutual funds, and life‑insurance premiums."
+  }
+ ],
+ "5d8c0ead4e4c5b555a5f650e296630e67aac45a8": [
+  {
+   "query": "What is the standard settlement period (e.g., T+2) for equity trades on Indian stock exchanges?",
+   "passage": "The National Stock Exchange (NSE) and Bombay Stock Exchange (BSE) operate on a T+2 settlement cycle, meaning that the transfer of securities and funds is completed two business days after the trade date."
+  },
+  {
+   "query": "According to SEBI circulars, by what date must the buyer's account be debited for an equity transaction executed on the Indian market?",
+   "passage": "SEBI's Settlement Cycle Guidelines state that the buyer's account must be debited and the seller's account credited by the end of the second business day following the trade (T+2)."
+  },
+  {
+   "query": "When did India adopt the T+2 settlement cycle for equities, replacing the previous T+3 system?",
+   "passage": "In May 2013, the Securities and Exchange Board of India (SEBI) announced the shift from a T+3 to a T+2 settlement cycle for equity trades, with the new regime becoming effective on 1 September 2013."
+  }
+ ]
+}
